@@ -1,0 +1,4 @@
+Nombre:[Miguel]
+Edad:39
+Carrera:Programacion
+Sat Nov 01 2025 22:19:45 GMT-0300 (hora estándar de Argentina)
